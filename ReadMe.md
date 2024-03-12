@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roopesh</h1>
 <h3 align="center">vitc</h3>
-- 🔭 I’m currently working on **Railway Management System**
-- 🌱 I’m currently learning **webdevelopment**
+- 🔭 I’m currently working on Railway Management System<br>
+- 🌱 I’m currently learning webdevelopment<br>
 
 - 📫 How to reach me **roopesh408719@gmail.com**
 
