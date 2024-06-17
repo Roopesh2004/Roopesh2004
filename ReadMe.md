@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roopesh</h1>
 <h3 align="center">vitc</h3>
-- 🔭 I’m currently working on webdevelopment<br>
+- 🔭 I’m currently working on web-development<br>
 - 🌱 I’m currently learning ML<br>
 
 - 📫 How to reach me **roopesh408719@gmail.com**
